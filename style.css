@@ -1,0 +1,51 @@
+.body {
+    Background-image: url(css/images/background.jpeg);
+    background-size: cover;
+
+}
+
+
+header {
+
+    position: absolute;
+    width: 100%;
+    
+}
+.navbar-brand {
+
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.nav-link {
+    font-family: 'Ultra', serif;
+    font-size: 20px;
+}
+
+.pic1 {
+
+    width: 250px;
+    length: 250px;
+}
+
+.container {
+    Margin: 15px;
+    padding: 25px;
+    
+}
+
+.card {
+    text-align: justify;
+}
+
+.card h-100{
+    background-image: url(css/images/background.jpeg) ;
+}
+
+.card-title {
+    text-align: center;
+    font-family: 'Audiowide', cursive; 
+   
+    
+}
